@@ -8,7 +8,7 @@ Try it here: http://edanahy.github.io/Connections
 
 Based on: https://www.nytimes.com/games/connections
 
-Build using OpenAI's ChatGPT: https://chat.openai.com
+Built with assistance from OpenAI's ChatGPT: https://chat.openai.com
 
 For more information: ***[open the game](http://edanahy.github.io/Connections), read instructions, and view details on how it was made***.
 
